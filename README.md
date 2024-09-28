@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Cunha</h1>
 <h3 align="center">Im a Junior Fullstack developer with 2 years of experience working on real projects and made a TESP, im mainly a backend developer but I like frontend as well</h3>
 
-- 🔭 I’m currently working on **FitEscola**
+- 🔭 I’m currently working on **CollectionTree**
 
 - 🌱 I’m currently learning **Expo and react native (BaaS) Supabase**
 
