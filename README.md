@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CollectionTree**
 
-- 🌱 I’m currently learning **Expo and react native (BaaS) Supabase**
+- 🌱 I’m currently learning **Goland and Next JS**
 
 - 📫 How to reach me **daniel.cunha.03@hotmail.com**
 
