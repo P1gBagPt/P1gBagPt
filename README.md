@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CollectionTree**
 
-- 🌱 I’m currently learning **Goland and Next JS**
+- 🌱 I’m currently learning **Golang and Next JS**
 
 - 📫 How to reach me **daniel.cunha.03@hotmail.com**
 
